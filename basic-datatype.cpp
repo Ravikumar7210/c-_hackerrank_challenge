@@ -4,12 +4,12 @@
 using namespace std;
 
 int main() {
-    int a;
-    long b;
-    char c;
-    float d;
-    double e;
-    cin>>a>>b>>c>>d>>e;
+    int p;
+    long q;
+    char r;
+    float s;
+    double z;
+    cin>>p>>q>>r>>s>>z;
     cout<<a<<endl;
     cout<<b<<endl;
     cout<<c<<endl;
