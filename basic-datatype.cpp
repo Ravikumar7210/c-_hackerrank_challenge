@@ -10,11 +10,11 @@ int main() {
     float s;
     double z;
     cin>>p>>q>>r>>s>>z;
-    cout<<a<<endl;
-    cout<<b<<endl;
-    cout<<c<<endl;
-    cout<<fixed<<setprecision(3)<<d<<endl;
-    cout<<fixed<<setprecision(9)<<e<<endl;
+    cout<<p<<endl;
+    cout<<q<<endl;
+    cout<<r<<endl;
+    cout<<fixed<<setprecision(3)<<s<<endl;
+    cout<<fixed<<setprecision(9)<<z<<endl;
     // Complete the code.
     return 0;
 }
