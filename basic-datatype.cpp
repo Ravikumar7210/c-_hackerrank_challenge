@@ -4,17 +4,17 @@
 using namespace std;
 
 int main() {
-    int p;
-    long q;
-    char r;
-    float s;
-    double z;
-    cin>>p>>q>>r>>s>>z;
-    cout<<p<<endl;
-    cout<<q<<endl;
-    cout<<r<<endl;
-    cout<<fixed<<setprecision(3)<<s<<endl;
-    cout<<fixed<<setprecision(9)<<z<<endl;
+    int a;
+    long b;
+    char c;
+    float d;
+    double e;
+    cin>>a>>b>>c>>d>>e;
+    cout<<a<<endl;
+    cout<<b<<endl;
+    cout<<c<<endl;
+    cout<<fixed<<setprecision(3)<<d<<endl;
+    cout<<fixed<<setprecision(9)<<e<<endl;
     // Complete the code.
     return 0;
 }
