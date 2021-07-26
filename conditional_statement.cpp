@@ -5,8 +5,8 @@ using namespace std;
 int main (){
     
     int x;
-    cin >>n;
-    if (n==1)
+    cin >>x;
+    if (x==1)
     {
         cout <<"one";
     }
