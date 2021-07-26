@@ -4,9 +4,9 @@ using namespace std;
 
 int main (){
     
-    int x;
-    cin >>x;
-    if (x==1)
+    int n;
+    cin >>n;
+    if (n==1)
     {
         cout <<"one";
     }
