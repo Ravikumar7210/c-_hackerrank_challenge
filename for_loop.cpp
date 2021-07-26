@@ -4,9 +4,9 @@ using namespace std;
 
 int main() {
     // Complete the code.
-    int a ,b;
-    cin>>a>>b;
-    for (int i=a;i<=b;i++){
+    int x,y;
+    cin>>x>>y;
+    for (int i=x;i<=y;i++){
         if (i==1){
             cout<<"one"<<endl;
         }
